@@ -9,5 +9,3 @@
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM&logoCOlor=F88C00)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=REDUX&logoCOlor=F88C00)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=Socket.io&logoCOlor=F88C00)
-
-![Serge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitrogenetic41&hide=contribs,prs?username=Nitrogenetic41&show_icons=true?username=Nitrogenetic41&show_icons=true&theme=dark)
