@@ -3,5 +3,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoCOlor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoCOlor=F88C00)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoCOlor=F88C00)
-![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=Jquery&logoCOlor=F88C00)
-![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM&logoCOlor=F88C00)
+
